@@ -39,7 +39,7 @@ pip-tools==5.2.0
     # via -r requirements.in
 pygments==2.7.4
     # via mkdocs-material
-pymdown-extensions==7.1
+pymdown-extensions==10.0
     # via mkdocs-material
 pyparsing==3.0.7
     # via packaging
@@ -48,6 +48,7 @@ python-dateutil==2.8.2
 pyyaml==5.4
     # via
     #   mkdocs
+    #   pymdown-extensions
     #   pyyaml-env-tag
 pyyaml-env-tag==0.1
     # via mkdocs
